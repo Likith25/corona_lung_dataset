@@ -1,1 +1,1 @@
-# corona_lung_test
+# corona_lung_dataset
